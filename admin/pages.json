@@ -1,0 +1,97 @@
+[
+ {
+  "path": "index.html",
+  "title": "Home",
+  "group": "Main"
+ },
+ {
+  "path": "about.html",
+  "title": "About",
+  "group": "Main"
+ },
+ {
+  "path": "contact.html",
+  "title": "Contact",
+  "group": "Main"
+ },
+ {
+  "path": "journal.html",
+  "title": "Journal",
+  "group": "Main"
+ },
+ {
+  "path": "login.html",
+  "title": "Client portal",
+  "group": "Main"
+ },
+ {
+  "path": "404.html",
+  "title": "Not found (404)",
+  "group": "Main"
+ },
+ {
+  "path": "services/index.html",
+  "title": "All services",
+  "group": "Services"
+ },
+ {
+  "path": "services/identity-lab.html",
+  "title": "Identity Lab",
+  "group": "Services"
+ },
+ {
+  "path": "services/growth-studio.html",
+  "title": "Growth Studio",
+  "group": "Services"
+ },
+ {
+  "path": "services/signal.html",
+  "title": "Signal",
+  "group": "Services"
+ },
+ {
+  "path": "services/platforms.html",
+  "title": "Platforms",
+  "group": "Services"
+ },
+ {
+  "path": "services/product-works.html",
+  "title": "Product Works",
+  "group": "Services"
+ },
+ {
+  "path": "services/motion.html",
+  "title": "Motion",
+  "group": "Services"
+ },
+ {
+  "path": "services/core-intelligence.html",
+  "title": "Core Intelligence",
+  "group": "Services"
+ },
+ {
+  "path": "ventures/index.html",
+  "title": "All ventures",
+  "group": "Ventures"
+ },
+ {
+  "path": "ventures/brandt-bot.html",
+  "title": "Brandt Bot",
+  "group": "Ventures"
+ },
+ {
+  "path": "ventures/projekto.html",
+  "title": "Projekto",
+  "group": "Ventures"
+ },
+ {
+  "path": "ventures/ustahu.html",
+  "title": "Ustahu",
+  "group": "Ventures"
+ },
+ {
+  "path": "ventures/atropics.html",
+  "title": "Atropics",
+  "group": "Ventures"
+ }
+]
